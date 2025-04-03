@@ -42,7 +42,7 @@
     color: #ffffff;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: below;
     padding: 24px 0;
 
     
