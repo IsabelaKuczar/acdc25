@@ -37,16 +37,13 @@
 }
 
 .ACDC1 {
+    
+    background-image: linear-gradient(#A40101, #000000);
+    color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: below;
     padding: 24px 0;
-    background-image: linear-gradient(#A40101, #000000);
-    color: #ffffff;
-    
-
-    
-
 }
 
 
@@ -58,7 +55,7 @@
 
 .ACDC1 {
     font-size: 26px;
-    padding: 24px;
+    padding: 50,px;
 }
 
 .ACDC2 {
